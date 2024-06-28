@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Penny的網站</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 11:00:00 +0800</lastBuildDate>
     <atom:link href="https://pennyyyyyyyyyy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C/C&#43;&#43;</title>
+      <link>https://pennyyyyyyyyyy.github.io/tags/c/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pennyyyyyyyyyy.github.io/tags/c/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Excel VBA</title>
+      <link>https://pennyyyyyyyyyy.github.io/tags/excel-vba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pennyyyyyyyyyy.github.io/tags/excel-vba/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://pennyyyyyyyyyy.github.io/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pennyyyyyyyyyy.github.io/tags/python/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Game</title>
       <link>https://pennyyyyyyyyyy.github.io/tags/game/</link>
@@ -34,20 +55,6 @@
       <link>https://pennyyyyyyyyyy.github.io/tags/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pennyyyyyyyyyy.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://pennyyyyyyyyyy.github.io/tags/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pennyyyyyyyyyy.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>React</title>
-      <link>https://pennyyyyyyyyyy.github.io/tags/react/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pennyyyyyyyyyy.github.io/tags/react/</guid>
       <description></description>
     </item>
   </channel>
